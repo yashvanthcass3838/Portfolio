@@ -14,14 +14,14 @@ This repository contains the source code for the personal portfolio of **Yashvan
 - **React 18** & **TypeScript**
 - **Vite** — High-speed build tooling
 - **Tailwind CSS** — Custom dark glass design tokens & responsive layout
-- **Framer Motion** — Cinematic scroll reveals, spring interactions, and HUD radar motion
+- **Framer Motion** — Cinematic scroll reveals, spring interactions, and smooth micro-animations
 - **Lucide React** — Consistent icon set
 
 ---
 
 ## 🌟 Sections Included
 
-1. **Cinematic Hero**: Two-column layout with animated AI/Drone HUD telemetry graphic
+1. **Cinematic Hero**: Focused high-impact hero showcasing core identity, tagline, direct actions, and academic snapshot bar
 2. **About Me**: Academic snapshot (B.E. CSE AI&ML, 8.58 CGPA) & core technical philosophy
 3. **Formal Education**: Rathinam Technical Campus academic overview & coursework highlights
 4. **Technical Skills**: Programming, AI & CV, Hardware & Embedded Systems, Currently Learning
